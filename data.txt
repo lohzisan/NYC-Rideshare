@@ -1,0 +1,3 @@
+The parquet file containing the data is too large to be uploaded to GitHub. You can find it at the google drive link below: 
+
+https://drive.google.com/file/d/1N1VdgvJgr9XGbVgyH6-SU1a5rUPFhTUp/view?usp=share_link
