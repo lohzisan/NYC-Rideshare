@@ -9,9 +9,6 @@ This repository contains the Python script for performing Exploratory Data Analy
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data](#data)
-- [Columns](#columns)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -57,4 +54,11 @@ Run the `main.py` script with your dataset:
 
 ```bash
 python main.py
+```
+
+## Data
+
+The parquet files used are too big to be uploaded to GitHub. Please navigate to the data folder in the main branch
+and in the `data.txt` file, there should be a direct link to the file used. 
+
 
